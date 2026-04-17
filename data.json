@@ -1,0 +1,1104 @@
+{
+  "meta": {
+    "event_name": "Jour de fête",
+    "date": "2026-04-25",
+    "city": "Pont-Croix",
+    "timezone": "Europe/Paris",
+    "categories": [
+      "atelier",
+      "musique",
+      "visite",
+      "exposition",
+      "jeu",
+      "danse",
+      "conférence",
+      "restauration",
+      "dégustation",
+      "bien-être",
+      "marché-artisanat",
+      "déambulation"
+    ]
+  },
+  "places": [
+    {
+      "id": "place-eglise",
+      "kind": "physical-place",
+      "name": "Place de l’église",
+      "subtitle": "Autour de l’église Notre-Dame de Roscudon",
+      "address": "Place de l’église, Pont-Croix",
+      "latitude": 48.04093700444807,
+      "longitude": -4.489240085914002,
+      "sort_order": 1
+    },
+    {
+      "id": "place-marquisat",
+      "kind": "physical-place",
+      "name": "Devant le marquisat",
+      "subtitle": null,
+      "address": "Marquisat, Pont-Croix",
+      "latitude": 48.04110760647231,
+      "longitude": -4.487937455232889,
+      "sort_order": 2
+    },
+    {
+      "id": "place-rosmadec",
+      "kind": "physical-place",
+      "name": "Rue de Rosmadec",
+      "subtitle": null,
+      "address": "Rue de Rosmadec, Pont-Croix",
+      "latitude": 48.04064871765155,
+      "longitude": -4.488269554512241,
+      "sort_order": 3
+    },
+    {
+      "id": "place-republique",
+      "kind": "physical-place",
+      "name": "Place de la République",
+      "subtitle": null,
+      "address": "Place de la République, Pont-Croix",
+      "latitude": 48.04085429159503,
+      "longitude": -4.486501439813265,
+      "sort_order": 4
+    },
+    {
+      "id": "place-bollore",
+      "kind": "physical-place",
+      "name": "Espace culturel Bolloré",
+      "subtitle": null,
+      "address": "Espace culturel Bolloré, Pont-Croix",
+      "latitude": 48.04182904242711,
+      "longitude": -4.489244607588462,
+      "sort_order": 5
+    },
+    {
+      "id": "place-cite-musicale",
+      "kind": "physical-place",
+      "name": "Cité musicale",
+      "subtitle": null,
+      "address": "Cité musicale, Pont-Croix",
+      "latitude": 48.04168376097755,
+      "longitude": -4.488135155515344,
+      "sort_order": 6
+    },
+    {
+      "id": "place-mediatheque",
+      "kind": "physical-place",
+      "name": "Médiathèque",
+      "subtitle": null,
+      "address": "Médiathèque, Pont-Croix",
+      "latitude": 48.041822783428216,
+      "longitude": -4.488596635204971,
+      "sort_order": 7
+    },
+    {
+      "id": "place-finistere",
+      "kind": "physical-place",
+      "name": "Rue du Finistère",
+      "subtitle": null,
+      "address": "Rue du Finistère, Pont-Croix",
+      "latitude": 48.04089843694597,
+      "longitude": -4.495860321771321,
+      "sort_order": 8
+    },
+    {
+      "id": "place-gdegaulle",
+      "kind": "physical-place",
+      "name": "Boulevard du Général De Gaulle",
+      "subtitle": null,
+      "address": "Boulevard du Général De Gaulle, Pont-Croix",
+      "latitude": 48.042377587349264,
+      "longitude": -4.487750768257218,
+      "sort_order": 9
+    },
+    {
+      "id": "place-rue-prison",
+      "kind": "physical-place",
+      "name": "Rue de la Prison",
+      "subtitle": null,
+      "address": "Rue de la Prison, Pont-Croix",
+      "latitude": 48.04107869526523,
+      "longitude": -4.487744921218605,
+      "sort_order": 10
+    },
+    {
+      "id": "place-pennanger",
+      "kind": "physical-place",
+      "name": "Port de Pennanger",
+      "subtitle": "Dans l’herbe face au Goyen",
+      "address": "Port de Pennanger, Pont-Croix",
+      "latitude": 48.04027571593463,
+      "longitude": -4.4938405136162896,
+      "sort_order": 11
+    },
+    {
+      "id": "place-kergadel",
+      "kind": "physical-place",
+      "name": "EARL Kergadel",
+      "subtitle": "2 lieu-dit Kergadel",
+      "address": "2 lieu-dit Kergadel, Pont-Croix",
+      "latitude": 48.05158110531232,
+      "longitude": -4.488298811601335,
+      "sort_order": 12
+    },
+    {
+      "id": "place-pen-ar-han",
+      "kind": "physical-place",
+      "name": "Moulin de Pen Ar Han",
+      "subtitle": null,
+      "address": "Moulin de Pen Ar Han, Pont-Croix",
+      "latitude": 48.03936083116736,
+      "longitude": -4.48719069352342,
+      "sort_order": 13
+    },
+    {
+      "id": "place-boucheries",
+      "kind": "physical-place",
+      "name": "Le Passage",
+      "subtitle": "6 rue des Boucheries",
+      "address": "6 rue des Boucheries, Pont-Croix",
+      "latitude": 48.04088709409965,
+      "longitude": -4.4908539872301585,
+      "sort_order": 14
+    },
+    {
+      "id": "place-superu",
+      "kind": "physical-place",
+      "name": "Super U",
+      "subtitle": "Avenue de la Liberté",
+      "address": "Avenue de la Liberté, Pont-Croix",
+      "latitude": 48.04388824828485,
+      "longitude": -4.490238844175951,
+      "sort_order": 15
+    },
+    {
+      "id": "place-ville",
+      "kind": "virtual-area",
+      "name": "Dans toute la ville",
+      "subtitle": "Animations en déambulation",
+      "address": "Pont-Croix",
+      "latitude": null,
+      "longitude": null,
+      "is_virtual": true,
+      "sort_order": 99
+    }
+  ],
+  "events": [
+    {
+      "id": "event-bollore-conférence-vigne",
+      "place_id": "place-bollore",
+      "title": "Conférence sur la vigne et le vin en Cap Sizun",
+      "description": "Penser la filière en lien avec les enjeux de soutenabilité.",
+      "category": "conférence",
+      "organizers": [],
+      "all_day": false,
+      "display_time": "16:00-18:00",
+      "subplace": "Salle 3",
+      "time_slots": [
+        {
+          "start": "2026-04-25T16:00:00+02:00",
+          "end": "2026-04-25T18:00:00+02:00"
+        }
+      ],
+      "source_text": "De 16h à 18h – salle 3 : Conférence « La vigne et le vin en Cap Sizun : penser la filière en lien avec les enjeux de soutenabilité »"
+    },
+    {
+      "id": "event-bollore-musique-expo",
+      "place_id": "place-bollore",
+      "title": "Musique et exposition",
+      "description": null,
+      "category": "musique",
+      "organizers": ["Club de l’amitié"],
+      "all_day": false,
+      "display_time": "15:00-16:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T15:00:00+02:00",
+          "end": "2026-04-25T16:00:00+02:00"
+        }
+      ],
+      "source_text": "De 15h à 16h : musique et exposition par le club de l’amitié"
+    },
+    {
+      "id": "event-boucheries-flamenco",
+      "place_id": "place-boucheries",
+      "title": "Initiation au flamenco",
+      "description": "Pour les petits et grands.",
+      "category": "danse",
+      "organizers": [],
+      "audience": ["tout-public", "famille"],
+      "all_day": false,
+      "display_time": "11:00-12:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T11:00:00+02:00",
+          "end": "2026-04-25T12:00:00+02:00"
+        }
+      ],
+      "source_text": "De 11h à 12h : initiation au flamenco pour les petits et grands"
+    },
+    {
+      "id": "event-boucheries-portes-ouvertes",
+      "place_id": "place-boucheries",
+      "title": "Portes ouvertes pique-nique",
+      "description": "Apporter votre pique-nique et profiter du jardin.",
+      "category": "visite",
+      "organizers": ["Le Passage"],
+      "all_day": false,
+      "display_time": "11:00-15:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T11:00:00+02:00",
+          "end": "2026-04-25T15:00:00+02:00"
+        }
+      ],
+      "source_text": "Portes ouvertes jusqu’à 15h pour apporter votre pique-nique et profiter du jardin du tiers-lieu Le Passage"
+    },
+    {
+      "id": "event-cite-musicale-da-capo",
+      "place_id": "place-cite-musicale",
+      "title": "Répétition ouverte au public de la chorale Da Capo",
+      "description": null,
+      "category": "musique",
+      "organizers": ["Da Capo"],
+      "all_day": false,
+      "display_time": "17:30-18:30",
+      "time_slots": [
+        {
+          "start": "2026-04-25T17:30:00+02:00",
+          "end": "2026-04-25T18:30:00+02:00"
+        }
+      ],
+      "source_text": "De 17h30 à 18h30 : répétition ouverte au public de la chorale Da Capo"
+    },
+    {
+      "id": "event-eglise-art-classe-29",
+      "place_id": "place-eglise",
+      "title": "Atelier pour enfants, exposition de peintures d'enfants et zone photo",
+      "description": null,
+      "category": "atelier",
+      "organizers": ["Art Classe 29"],
+      "audience": ["enfants", "famille"],
+      "all_day": false,
+      "time_slots": [
+        {
+          "start": "2026-04-25T10:00:00+02:00",
+          "end": "2026-04-25T12:00:00+02:00"
+        },
+        {
+          "start": "2026-04-25T14:00:00+02:00",
+          "end": "2026-04-25T18:00:00+02:00"
+        }
+      ],
+      "source_text": "De 10h à 12h et de 14h à 18h : Atelier pour enfants. Exposition de peintures d'enfants. Zone photo – par Art Classe 29",
+      "display_time": "10:00-12:00 / 14:00-18:00"
+    },
+    {
+      "id": "event-eglise-brezhoneg",
+      "place_id": "place-eglise",
+      "title": "Tañva d'ar brezhoneg",
+      "description": "Initiation ludique et participative au breton en 15 minutes.",
+      "category": "atelier",
+      "organizers": ["Emglev Arc’hab"],
+      "all_day": false,
+      "time_slots": [
+        {
+          "start": "2026-04-25T10:00:00+02:00",
+          "end": "2026-04-25T11:00:00+02:00"
+        },
+        {
+          "start": "2026-04-25T14:00:00+02:00",
+          "end": "2026-04-25T16:00:00+02:00"
+        }
+      ],
+      "source_text": "De 10h à 11h et de 14h à 16h : Tañva d'ar brezhoneg",
+      "display_time": "10:00-11:00 / 14:00-16:00"
+    },
+    {
+      "id": "event-eglise-buvette",
+      "place_id": "place-eglise",
+      "title": "Buvette, petite restauration et pop corn",
+      "description": null,
+      "category": "restauration",
+      "organizers": ["APC"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Buvette, petite restauration & pop corn APC"
+    },
+    {
+      "id": "event-eglise-coiffure",
+      "place_id": "place-eglise",
+      "title": "Coiffure à prix libre",
+      "description": "Coupes pour les hommes, les femmes et les enfants sur cheveux propres.",
+      "category": "atelier",
+      "organizers": ["Juste une Coupe"],
+      "price": {
+        "type": "pay-what-you-want"
+      },
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Coiffure à prix libre avec juste une Coupe – coupes pour les hommes, les femmes et les enfants sur cheveux propres – prix libre"
+    },
+    {
+      "id": "event-eglise-concerts",
+      "place_id": "place-eglise",
+      "title": "Concerts sur la place de l’église",
+      "description": null,
+      "category": "musique",
+      "organizers": [
+        "Marché bio local et musical",
+        "Le Cèdre bleu",
+        "On y est"
+      ],
+      "all_day": false,
+      "display_time": "14:00 - 20:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T14:00:00+02:00",
+          "end": "2026-04-25T20:00:00+02:00"
+        }
+      ],
+      "source_text": "Concerts sur la place de l’église par l’association du marché bio local et musical, le Cèdre bleu et l’association On y est"
+    },
+    {
+      "id": "event-eglise-concert-lalasidi",
+      "place_id": "place-eglise",
+      "title": "Concert de Lalasidi",
+      "description": "Concerts sur la place de l’église. Lalasidi est une musique vivante et métissée, entre groove et transe, portée par une poésie marocaine et improvisation musicale.",
+      "category": "musique",
+      "organizers": [
+        "Marché bio local et musical",
+        "Le Cèdre bleu",
+        "Lalasidi"
+      ],
+      "all_day": false,
+      "display_time": "15:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T15:00:00+02:00",
+          "end": "2026-04-25T16:00:00+02:00"
+        }
+      ],
+      "source_text": "Concerts sur la place de l’église. Lalasidi est une musique vivante et métissée, entre groove et transe, portée par une poésie marocaine et improvisation musicale."
+    },
+    {
+      "id": "event-eglise-cosmetiques",
+      "place_id": "place-eglise",
+      "title": "Stand de cosmétiques",
+      "description": null,
+      "category": "marché-artisanat",
+      "organizers": ["Edulis"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Stand de cosmétiques d’Edulis"
+    },
+    {
+      "id": "event-eglise-danses-bretonnes",
+      "place_id": "place-eglise",
+      "title": "Apprendre les danses bretonnes tout en chantant",
+      "description": "Ouvert à tous, petits et grands.",
+      "category": "danse",
+      "organizers": ["Merc'hed ar Pont"],
+      "audience": ["tout-public", "famille"],
+      "all_day": false,
+      "time_slots": [
+        {
+          "start": "2026-04-25T18:30:00+02:00",
+          "end": "2026-04-25T19:30:00+02:00"
+        }
+      ],
+      "source_text": "À 18h30 : Avec le groupe \"Merc'hed ar Pont\" venez apprendre les danses bretonnes tout en chantant",
+      "display_time": "18:30"
+    },
+    {
+      "id": "event-eglise-dégustation-laneon",
+      "place_id": "place-eglise",
+      "title": "Dégustation",
+      "description": null,
+      "category": "dégustation",
+      "organizers": ["Les coteaux du Lanéon"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Dégustation par les coteaux du Lanéon"
+    },
+    {
+      "id": "event-eglise-ecoles-peinture",
+      "place_id": "place-eglise",
+      "title": "Exposition des élèves des écoles de peinture",
+      "description": null,
+      "category": "exposition",
+      "organizers": [],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Exposition des élèves des écoles de peinture"
+    },
+    {
+      "id": "event-eglise-escap29",
+      "place_id": "place-eglise",
+      "title": "Découvrir l'Histoire de Pont-Croix autour d'un monument",
+      "description": "Pour tous les âges à partir de 5 ans. Maximum 4 personnes par groupe. 2€ par groupe.",
+      "category": "visite",
+      "organizers": ["EsCAP'29"],
+      "audience": ["5-plus", "famille"],
+      "price": {
+        "type": "fixed",
+        "amount": 2,
+        "currency": "EUR",
+        "label": "2€ par groupe"
+      },
+      "all_day": false,
+      "time_slots": [
+        {
+          "start": "2026-04-25T10:00:00+02:00",
+          "end": "2026-04-25T13:00:00+02:00"
+        }
+      ],
+      "source_text": "De 10h à 13h : EsCAP'29 vous propose de découvrir l'Histoire de Pont-Croix...",
+      "display_time": "10:00-13:00"
+    },
+    {
+      "id": "event-eglise-fouees",
+      "place_id": "place-eglise",
+      "title": "Les fouées",
+      "description": null,
+      "category": "restauration",
+      "organizers": ["Association des moulins du Cap"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Les fouées de l’association des moulins du Cap"
+    },
+    {
+      "id": "event-eglise-heoloptic",
+      "place_id": "place-eglise",
+      "title": "Remise en état et collecte de vieilles lunettes",
+      "description": null,
+      "category": "atelier",
+      "organizers": ["Héol’Optic"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Remise en état et collecte de vieilles lunettes par Héol’Optic"
+    },
+    {
+      "id": "event-eglise-jeux-olfactifs",
+      "place_id": "place-eglise",
+      "title": "Jeux olfactifs",
+      "description": null,
+      "category": "jeu",
+      "organizers": ["Chrysalide"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Jeux olfactifs avec Chrysalide"
+    },
+    {
+      "id": "event-eglise-jeux-plein-air",
+      "place_id": "place-eglise",
+      "title": "Jeux de plein air",
+      "description": null,
+      "category": "jeu",
+      "organizers": ["La Obra"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Jeux de plein air avec La Obra"
+    },
+    {
+      "id": "event-eglise-jus-pomme",
+      "place_id": "place-eglise",
+      "title": "Vente de jus de pomme",
+      "description": null,
+      "category": "marché-artisanat",
+      "organizers": ["Comité de soutien de l’école Diwan"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Vente de jus de pomme par le comité de soutien de l’école Diwan"
+    },
+    {
+      "id": "event-eglise-kan-ha-diskan",
+      "place_id": "place-eglise",
+      "title": "Tañva d'ar c'han ha diskan",
+      "description": "Initiation au kan ha diskan. Pas besoin d’être bretonnant ni de savoir chanter.",
+      "category": "atelier",
+      "organizers": [],
+      "all_day": false,
+      "time_slots": [
+        {
+          "start": "2026-04-25T16:00:00+02:00",
+          "end": "2026-04-25T17:30:00+02:00"
+        }
+      ],
+      "source_text": "De 16h à 17h30 : Tañva d'ar c'han ha diskan",
+      "display_time": "16:00-17:30"
+    },
+    {
+      "id": "event-eglise-marathon-photo",
+      "place_id": "place-eglise",
+      "title": "Marathon photo et exposition",
+      "description": null,
+      "category": "exposition",
+      "organizers": ["À l’image du Cap Sizun"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Marathon photo et exposition par A l’image du Cap Sizun"
+    },
+    {
+      "id": "event-eglise-palet-breton",
+      "place_id": "place-eglise",
+      "title": "Palet breton",
+      "description": null,
+      "category": "jeu",
+      "organizers": ["Celtic Ar Pont"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Palet breton avec le Celtic Ar Pont"
+    },
+    {
+      "id": "event-eglise-troc-graines",
+      "place_id": "place-eglise",
+      "title": "Troc de graines et plantes",
+      "description": null,
+      "category": "atelier",
+      "organizers": ["Les jardins familiaux"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Troc de graines et plantes avec les jardins familiaux"
+    },
+    {
+      "id": "event-eglise-veillee-nomade",
+      "place_id": "place-eglise",
+      "title": "Musique et chant en déambulation",
+      "description": null,
+      "category": "musique",
+      "organizers": ["La Veillée Nomade"],
+      "is_mobile": true,
+      "all_day": false,
+      "time_slots": [
+        {
+          "start": "2026-04-25T14:30:00+02:00",
+          "end": "2026-04-25T15:30:00+02:00"
+        }
+      ],
+      "source_text": "De 14h30 à 15h30 : Musique et chant en déambulation de la Veillée Nomade",
+      "display_time": "14:30-15:30"
+    },
+    {
+      "id": "event-eglise-vente-plants",
+      "place_id": "place-eglise",
+      "title": "Vente de plants et de légumes",
+      "description": null,
+      "category": "marché-artisanat",
+      "organizers": ["EARL Kergadel"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Vente de plants et de légumes par l’EARL Kergadel"
+    },
+    {
+      "id": "event-finistere-buttes-culture",
+      "place_id": "place-finistere",
+      "title": "Atelier construction de buttes culture en « lasagnes »",
+      "description": null,
+      "category": "atelier",
+      "organizers": ["Les jardins familiaux"],
+      "all_day": false,
+      "display_time": "11:00-12:00 / 14:30-15:30",
+      "time_slots": [
+        {
+          "start": "2026-04-25T11:00:00+02:00",
+          "end": "2026-04-25T12:00:00+02:00"
+        },
+        {
+          "start": "2026-04-25T14:30:00+02:00",
+          "end": "2026-04-25T15:30:00+02:00"
+        }
+      ],
+      "source_text": "De 11h à 12h et de 14h30 à 15h30 : atelier construction de buttes culture en « lasagnes » avec les jardins familiaux"
+    },
+    {
+      "id": "event-gdegaulle-boucherie",
+      "place_id": "place-gdegaulle",
+      "title": "Dégustation à la boucherie Chez Clément",
+      "description": null,
+      "category": "dégustation",
+      "organizers": ["Chez Clément"],
+      "all_day": false,
+      "display_time": "Le matin",
+      "subplace": "Chez Clément",
+      "time_slots": [],
+      "schedule_status": "unknown",
+      "source_text": "Le matin : dégustation à la boucherie Chez Clément"
+    },
+    {
+      "id": "event-gdegaulle-fleurs",
+      "place_id": "place-gdegaulle",
+      "title": "Atelier fleurs",
+      "description": null,
+      "category": "atelier",
+      "organizers": [],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "subplace": "Les Rives du Goyen",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : atelier fleurs aux Rives du Goyen"
+    },
+    {
+      "id": "event-gdegaulle-simples-canons",
+      "place_id": "place-gdegaulle",
+      "title": "Dégustation de vins et de tisanes",
+      "description": null,
+      "category": "dégustation",
+      "organizers": ["Simples et canons"],
+      "all_day": false,
+      "display_time": "10:00-12:30 / 15:30-18:00",
+      "subplace": "Simples et canons",
+      "time_slots": [
+        {
+          "start": "2026-04-25T10:00:00+02:00",
+          "end": "2026-04-25T12:30:00+02:00"
+        },
+        {
+          "start": "2026-04-25T15:30:00+02:00",
+          "end": "2026-04-25T18:00:00+02:00"
+        }
+      ],
+      "source_text": "De 10h à 12h30 et de 15h30 à 18h : dégustation de vins et de tisanes chez Simples et canons"
+    },
+    {
+      "id": "event-kergadel-visite-ferme",
+      "place_id": "place-kergadel",
+      "title": "Visite de la ferme en maraîchage bio",
+      "description": "À prix libre.",
+      "category": "visite",
+      "organizers": ["EARL Kergadel"],
+      "price": {
+        "type": "pay-what-you-want"
+      },
+      "all_day": false,
+      "display_time": "11:00 / 15:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T11:00:00+02:00",
+          "end": "2026-04-25T12:00:00+02:00"
+        },
+        {
+          "start": "2026-04-25T15:00:00+02:00",
+          "end": "2026-04-25T16:00:00+02:00"
+        }
+      ],
+      "source_text": "À 11h et 15h : visite à prix libre de la ferme en maraîchage bio de l’EARL Kergadel"
+    },
+    {
+      "id": "event-marquisat-balades",
+      "place_id": "place-marquisat",
+      "title": "Balade guidée",
+      "description": "Durée 1h30.",
+      "category": "visite",
+      "organizers": ["Culture et Patrimoine à Pont-Croix"],
+      "all_day": false,
+      "time_slots": [
+        {
+          "start": "2026-04-25T10:30:00+02:00",
+          "end": "2026-04-25T12:00:00+02:00"
+        },
+        {
+          "start": "2026-04-25T14:00:00+02:00",
+          "end": "2026-04-25T15:30:00+02:00"
+        }
+      ],
+      "source_text": "10h30 et 14h : rendez-vous pour des balades guidées par l’association Culture et Patrimoine à Pont-Croix (durée 1h30)",
+      "display_time": "10:30 / 14:00"
+    },
+    {
+      "id": "event-mediatheque-broderie",
+      "place_id": "place-mediatheque",
+      "title": "Atelier broderie : La carte du c(h)oeur",
+      "description": null,
+      "category": "atelier",
+      "organizers": ["Véronique Mazière"],
+      "all_day": false,
+      "display_time": "10:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T10:00:00+02:00",
+          "end": "2026-04-25T11:00:00+02:00"
+        }
+      ],
+      "source_text": "À 10h : atelier broderie La carte du c(h)oeur avec Véronique Mazière"
+    },
+    {
+      "id": "event-mediatheque-veillee-nomade",
+      "place_id": "place-mediatheque",
+      "title": "Chants et musique de la Veillée Nomade",
+      "description": null,
+      "category": "musique",
+      "organizers": ["La Veillée Nomade"],
+      "all_day": false,
+      "display_time": "16:15-17:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T16:15:00+02:00",
+          "end": "2026-04-25T17:00:00+02:00"
+        }
+      ],
+      "source_text": "De 16h15 à 17h : chants et musique de la Veillée Nomade"
+    },
+    {
+      "id": "event-pen-ar-han-visite",
+      "place_id": "place-pen-ar-han",
+      "title": "Visite du moulin",
+      "description": null,
+      "category": "visite",
+      "organizers": ["Cap sur les moulins"],
+      "all_day": false,
+      "display_time": "10:00-18:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T10:00:00+02:00",
+          "end": "2026-04-25T18:00:00+02:00"
+        }
+      ],
+      "source_text": "De 10h à 18h : visite du moulin par Cap sur les moulins"
+    },
+    {
+      "id": "event-pennanger-qi-gong",
+      "place_id": "place-pennanger",
+      "title": "Séance découverte de Qi Gong",
+      "description": "À partir de 12 ans.",
+      "category": "bien-être",
+      "organizers": [],
+      "audience": ["12-plus"],
+      "all_day": false,
+      "display_time": "11:15-12:15",
+      "time_slots": [
+        {
+          "start": "2026-04-25T11:15:00+02:00",
+          "end": "2026-04-25T12:15:00+02:00"
+        }
+      ],
+      "source_text": "De 11h15 à 12h15 : séance découverte de Qi Gong (à partir de 12 ans)"
+    },
+    {
+      "id": "event-republique-atelier-pain",
+      "place_id": "place-republique",
+      "title": "Atelier pain",
+      "description": "Chacun réalise son pain.",
+      "category": "atelier",
+      "organizers": ["Au four et au moulin"],
+      "all_day": false,
+      "display_time": "10:00-18:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T10:00:00+02:00",
+          "end": "2026-04-25T18:00:00+02:00"
+        }
+      ],
+      "source_text": "De 10h à 18h : atelier pain, chacun réalise son pain à la boulangerie Au four et au moulin"
+    },
+    {
+      "id": "event-republique-broderie-goyen",
+      "place_id": "place-republique",
+      "title": "Peindre et broder le Goyen",
+      "description": "Stand de démonstration croisé autour du Goyen.",
+      "category": "atelier",
+      "organizers": ["Studio Patricia Hood", "Eric Leprince"],
+      "all_day": false,
+      "display_time": "14:00-18:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T14:00:00+02:00",
+          "end": "2026-04-25T18:00:00+02:00"
+        }
+      ],
+      "source_text": "De 14h à 18h : stand de démonstration croisé : peindre et broder le Goyen par le studio Patricia Hood et Eric Leprince"
+    },
+    {
+      "id": "event-republique-chasse-tresors",
+      "place_id": "place-republique",
+      "title": "Chasse aux trésors",
+      "description": null,
+      "category": "jeu",
+      "organizers": ["Le Safran", "Le Fournil Bio"],
+      "all_day": false,
+      "display_time": "10:00-18:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T10:00:00+02:00",
+          "end": "2026-04-25T18:00:00+02:00"
+        }
+      ],
+      "source_text": "De 10h à 18h : chasse aux trésors par le Safran et le Fournil Bio"
+    },
+    {
+      "id": "event-republique-glaz",
+      "place_id": "place-republique",
+      "title": "Restaurant ouvert au format bar",
+      "description": null,
+      "category": "restauration",
+      "organizers": ["GLAZ"],
+      "all_day": false,
+      "display_time": "Toute l’après-midi",
+      "time_slots": [
+        {
+          "start": "2026-04-25T14:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Restaurant ouvert toute l’après midi au format bar"
+    },
+    {
+      "id": "event-republique-porte-cle",
+      "place_id": "place-republique",
+      "title": "Atelier pour dessiner et fabriquer son porte-clé",
+      "description": "Prix libre.",
+      "category": "atelier",
+      "organizers": ["Atelier D’Images"],
+      "price": {
+        "type": "pay-what-you-want"
+      },
+      "all_day": false,
+      "display_time": "09:30-12:30 / 15:00-19:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:30:00+02:00",
+          "end": "2026-04-25T12:30:00+02:00"
+        },
+        {
+          "start": "2026-04-25T15:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "De 9h30 à 12h30 et de 15h à 19h : atelier pour dessiner et fabriquer son porte-clé à l’Atelier D’Images – prix libre"
+    },
+    {
+      "id": "event-rosmadec-atelier-vannier",
+      "place_id": "place-rosmadec",
+      "title": "Visite de l’atelier Christine Vannier",
+      "description": "Avec déambulation de M. et Mme Clown.",
+      "category": "visite",
+      "organizers": ["Christine Vannier"],
+      "all_day": false,
+      "time_slots": [
+        {
+          "start": "2026-04-25T10:30:00+02:00",
+          "end": "2026-04-25T13:00:00+02:00"
+        },
+        {
+          "start": "2026-04-25T14:30:00+02:00",
+          "end": "2026-04-25T17:00:00+02:00"
+        }
+      ],
+      "source_text": "De 10h30 à 13h et de 14h30 à 17h : visite de l’Atelier Christine Vannier et déambulation de M. et Mme Clown",
+      "display_time": "10:30-13:00 / 14:30-17:00"
+    },
+    {
+      "id": "event-rosmadec-ateliers-ouverts",
+      "place_id": "place-rosmadec",
+      "title": "Ateliers ouverts au public",
+      "description": null,
+      "category": "visite",
+      "organizers": ["Vincent Charrier", "Eric Jezequel", "Steven Pennaneac’h"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Les ateliers Vincent Charrier, Eric Jezequel et Steven Pennaneac’h seront ouverts au public"
+    },
+    {
+      "id": "event-rosmadec-peinture",
+      "place_id": "place-rosmadec",
+      "title": "Animation peinture pour tou-te-s",
+      "description": null,
+      "category": "atelier",
+      "organizers": [],
+      "all_day": false,
+      "time_slots": [
+        {
+          "start": "2026-04-25T11:30:00+02:00",
+          "end": "2026-04-25T12:30:00+02:00"
+        }
+      ],
+      "source_text": "De 11h30 à 12h30 : animation peinture pour tou-te-s",
+      "display_time": "11:30-12:30"
+    },
+    {
+      "id": "event-rue-prison-broderie",
+      "place_id": "place-rue-prison",
+      "title": "Atelier de broderie : carte participative de Pont-Croix",
+      "description": null,
+      "category": "atelier",
+      "organizers": ["La Pluie d’été"],
+      "all_day": false,
+      "display_time": "14:30-16:30",
+      "subplace": "La Pluie d’été",
+      "time_slots": [
+        {
+          "start": "2026-04-25T14:30:00+02:00",
+          "end": "2026-04-25T16:30:00+02:00"
+        }
+      ],
+      "source_text": "De 14h30 à 16h30 : atelier de broderie, carte participative de Pont-Croix à La Pluie d’été"
+    },
+    {
+      "id": "event-rue-prison-exp-sonore",
+      "place_id": "place-rue-prison",
+      "title": "Expérience sonore : les paysages sonores",
+      "description": "À partir de 12 ans.",
+      "category": "bien-être",
+      "organizers": ["Espace Solune"],
+      "audience": ["12-plus"],
+      "all_day": false,
+      "display_time": "10:00-11:00",
+      "subplace": "Espace Solune",
+      "time_slots": [
+        {
+          "start": "2026-04-25T10:00:00+02:00",
+          "end": "2026-04-25T11:00:00+02:00"
+        }
+      ],
+      "source_text": "De 10h à 11h : expérience sonore, les paysages sonores (à partir de 12 ans) à l’Espace Solune"
+    },
+    {
+      "id": "event-rue-prison-kirtan",
+      "place_id": "place-rue-prison",
+      "title": "Yoga voix / chant Kirtan",
+      "description": "À partir de 12 ans.",
+      "category": "bien-être",
+      "organizers": ["Espace Solune"],
+      "audience": ["12-plus"],
+      "all_day": false,
+      "display_time": "16:00-17:00",
+      "subplace": "Espace Solune",
+      "time_slots": [
+        {
+          "start": "2026-04-25T16:00:00+02:00",
+          "end": "2026-04-25T17:00:00+02:00"
+        }
+      ],
+      "source_text": "De 16h à 17h : Yoga voix / chant Kirtan (à partir de 12 ans) à l’Espace Solune"
+    },
+    {
+      "id": "event-superu-loterie",
+      "place_id": "place-superu",
+      "title": "Loterie : 3 caddies 100 % remboursés",
+      "description": "En bons d’achat.",
+      "category": "jeu",
+      "organizers": ["Super U"],
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : loterie, 3 caddies 100 % remboursés en bons d’achat"
+    },
+    {
+      "id": "event-ville-jeux-déambulation",
+      "place_id": "place-ville",
+      "title": "Jeux en déambulation dans toute la ville",
+      "description": null,
+      "category": "déambulation",
+      "organizers": ["Le Village médiéval"],
+      "is_mobile": true,
+      "all_day": true,
+      "display_time": "Toute la journée",
+      "time_slots": [
+        {
+          "start": "2026-04-25T09:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "Toute la journée : Jeux en déambulation dans toute la ville par le village médiéval"
+    }
+  ]
+}

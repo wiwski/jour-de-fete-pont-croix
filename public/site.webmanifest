@@ -1,0 +1,23 @@
+{
+  "name": "Jour de fête | Pont-Croix",
+  "short_name": "Jour de fête",
+  "description": "Programme de Jour de fête a Pont-Croix le samedi 25 avril 2026.",
+  "lang": "fr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
