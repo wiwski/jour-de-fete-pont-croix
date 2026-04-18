@@ -375,6 +375,33 @@ h3 {
   margin-top: 10px;
 }
 
+.site-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 22px;
+  padding: 18px 20px 0;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+}
+
+.site-footer__meta {
+  margin: 0;
+}
+
+.site-footer__link {
+  color: var(--text);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.site-footer__link:hover,
+.site-footer__link:focus-visible {
+  text-decoration: underline;
+}
+
 @media (max-width: 959px) {
   .app-shell {
     width: min(100% - 16px, 100%);
@@ -435,5 +462,9 @@ h3 {
   .event-card__header,
   .section-card__header {
     flex-direction: column;
+  }
+
+  .site-footer {
+    padding-top: 16px;
   }
 }

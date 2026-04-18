@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mentions légales &amp; vie privée | Jour de fête</title>
+  <meta name="description"
+    content="Mentions légales et informations sur la vie privée du site Jour de fête à Pont-Croix." />
+  <style>
+    :root {
+      --bg: #f4efe6;
+      --panel: rgba(255, 255, 255, 0.94);
+      --panel-strong: #fffaf3;
+      --line: rgba(18, 48, 84, 0.14);
+      --text: #15304a;
+      --muted: #54657c;
+      --accent: #cf4438;
+      --accent-soft: rgba(207, 68, 56, 0.08);
+      --shadow: 0 22px 60px rgba(21, 48, 74, 0.12);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      color: var(--text);
+      background:
+        radial-gradient(circle at top right, rgba(239, 184, 70, 0.18), transparent 24%),
+        linear-gradient(180deg, rgba(141, 201, 242, 0.45) 0%, rgba(244, 239, 230, 1) 24%, rgba(244, 239, 230, 1) 100%);
+      font-family: "Avenir Next", "Segoe UI", "Trebuchet MS", sans-serif;
+      line-height: 1.6;
+    }
+
+    body {
+      margin: 0;
+      min-width: 320px;
+    }
+
+    a {
+      color: inherit;
+    }
+
+    .page {
+      width: min(960px, calc(100% - 24px));
+      margin: 0 auto;
+      padding: 24px 0 48px;
+    }
+
+    .hero,
+    .card,
+    .mini-note {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 28px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(14px);
+    }
+
+    .hero {
+      padding: 32px;
+      margin-bottom: 20px;
+    }
+
+    .eyebrow {
+      margin: 0 0 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      font-size: 0.75rem;
+      color: var(--accent);
+      font-weight: 700;
+    }
+
+    h1,
+    h2 {
+      font-family: "Georgia", "Iowan Old Style", serif;
+      line-height: 1.08;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(2.2rem, 4vw, 3.7rem);
+    }
+
+    h2 {
+      margin: 0 0 14px;
+      font-size: clamp(1.35rem, 2vw, 1.9rem);
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .hero__lede {
+      max-width: 62ch;
+      margin-top: 18px;
+      color: var(--muted);
+      font-size: 1.08rem;
+    }
+
+    .hero__links {
+      margin-top: 22px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      border-radius: 999px;
+      padding: 9px 14px;
+      background: rgba(255, 255, 255, 0.84);
+      border: 1px solid rgba(18, 48, 84, 0.08);
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    .layout {
+      display: grid;
+      gap: 18px;
+    }
+
+    .card {
+      padding: 24px;
+    }
+
+    .card p+p {
+      margin-top: 12px;
+    }
+
+    .card ul {
+      margin: 14px 0 0;
+      padding-left: 20px;
+    }
+
+    .card li+li {
+      margin-top: 8px;
+    }
+
+    .card strong {
+      color: var(--text);
+    }
+
+    .data-list {
+      display: grid;
+      gap: 14px;
+    }
+
+    .data-list div {
+      padding: 14px 16px;
+      border-radius: 18px;
+      background: var(--panel-strong);
+      border: 1px solid rgba(18, 48, 84, 0.08);
+    }
+
+    .data-list dt {
+      font-weight: 700;
+      color: var(--muted);
+    }
+
+    .data-list dd {
+      margin: 6px 0 0;
+    }
+
+    .mini-note {
+      padding: 20px 22px;
+      margin-top: 18px;
+      background: var(--accent-soft);
+    }
+
+    .mini-note p {
+      color: var(--muted);
+    }
+
+    .footer-note {
+      margin-top: 20px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 680px) {
+      .page {
+        width: min(100% - 16px, 100%);
+        padding-top: 16px;
+      }
+
+      .hero,
+      .card,
+      .mini-note {
+        border-radius: 22px;
+      }
+
+      .hero,
+      .card {
+        padding: 22px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="page">
+    <header class="hero">
+      <p class="eyebrow">Jour de fête · Pont-Croix</p>
+      <h1>Mentions légales &amp; vie privée</h1>
+      <p class="hero__lede">
+        Site édité par Witold Wroblewski pour l’association Jour de fête (association loi 1901).
+      </p>
+      <div class="hero__links">
+        <a class="pill" href="/">Retour au site</a>
+        <a class="pill" href="mailto:jourdefete@mailo.com">Contacter l'association</a>
+        <a class="pill" href="mailto:dev@witold.fr">Contacter le développeur</a>
+      </div>
+    </header>
+
+    <main class="layout">
+
+      <section class="card" aria-labelledby="responsable-publication">
+        <h2 id="responsable-publication">Responsable de publication</h2>
+        <p>
+          La publication du site est assurée par
+          <strong>Witold Wroblewski</strong>, pour le compte de
+          <strong>Jour de fête</strong>.
+        </p>
+      </section>
+
+      <section class="card" aria-labelledby="hebergement">
+        <h2 id="hebergement">Hébergement</h2>
+        <p>Le site est hébergé en France par <strong>alwaysdata</strong>.</p>
+        <p>
+          Hébergeur&nbsp;: Alwaysdata, société d'hébergement web basée en France, utilisée pour la
+          mise en ligne technique du site.
+        </p>
+      </section>
+
+      <section class="card" aria-labelledby="mesure-audience">
+        <h2 id="mesure-audience">Mesure d’audience (Matomo)</h2>
+        <p>
+          Le site utilise <strong>Matomo</strong>, dans une configuration auto-hébergée et
+          respectueuse de la vie privée.
+        </p>
+        <ul>
+          <li>la mesure d'audience est réalisée <strong>sans cookies</strong> ;</li>
+          <li>les adresses IP sont <strong>anonymisées</strong> ;</li>
+          <li>les données servent uniquement à comprendre la fréquentation du site ;</li>
+          <li>il n'y a <strong>pas de suivi publicitaire</strong> ;</li>
+          <li>il n'y a pas de croisement des données avec d'autres sites ;</li>
+          <li>le signal <strong>Do Not Track</strong> du navigateur est pris en compte.</li>
+        </ul>
+      </section>
+
+      <section class="card" aria-labelledby="droits-utilisateurs">
+        <h2 id="droits-utilisateurs">Droits des utilisateurs</h2>
+        <p>
+          Conformément au RGPD, vous pouvez demander des informations sur les données qui
+          pourraient vous concerner, ainsi que l'exercice de vos droits d'accès, de rectification,
+          d'effacement ou de limitation, lorsqu'ils s'appliquent.
+        </p>
+        <p>
+          Comme le site ne collecte pas directement de données nominatives via un formulaire ou un
+          espace personnel, ces droits ont en pratique une portée limitée. Vous pouvez néanmoins
+          écrire à l'association pour toute question liée à la vie privée.
+        </p>
+      </section>
+
+</body>
+
+</html>

@@ -193,6 +193,12 @@ export default function App() {
           ) : null}
         </section>
       </main>
+
+      <footer className="site-footer" aria-label="Informations du site">
+        <a className="site-footer__link" href="/mentions-legales.html">
+          Mentions légales & vie privée
+        </a>
+      </footer>
     </div>
   );
 }
