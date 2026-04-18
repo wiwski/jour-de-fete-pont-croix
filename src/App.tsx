@@ -111,6 +111,11 @@ export default function App() {
             Explorez la carte et le programme pour vous laisser guider au fil de
             la journée, de lieu en lieu.
           </p>
+          <p>
+            <strong>
+              Programme en cours de construction, susceptible d’évoluer.
+            </strong>
+          </p>
         </div>
         <div className="hero__poster">
           <img src={posterImage} alt="Affiche du Jour de fête à Pont-Croix" />
