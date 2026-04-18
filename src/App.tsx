@@ -99,7 +99,7 @@ export default function App() {
       <header className="hero">
         <div className="hero__content">
           <p className="eyebrow">
-            Pont-Croix · Samedi 25 avril 2026 · 9h30 - 20h
+            Pont-Croix · Samedi 25 avril 2026 · 10h - 20h
           </p>
           <h1>{prepared.meta.event_name}</h1>
           <p className="hero__lede">
