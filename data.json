@@ -171,6 +171,16 @@
       "sort_order": 15
     },
     {
+      "id": "place-chez-le-du",
+      "kind": "physical-place",
+      "name": "Chez Le Du",
+      "subtitle": "Moulin sur le pont de Keridreuff",
+      "address": "Pont de Keridreuff, Pont-Croix",
+      "latitude": 48.038525277828185,
+      "longitude": -4.486966965940143,
+      "sort_order": 16
+    },
+    {
       "id": "place-ville",
       "kind": "virtual-area",
       "name": "Dans toute la ville",
@@ -256,19 +266,40 @@
     {
       "id": "event-cite-musicale-da-capo",
       "place_id": "place-cite-musicale",
-      "title": "Répétition ouverte au public de la chorale Da Capo",
+      "title": "Répétition publique de la chorale Da Capo",
       "description": null,
       "category": "musique",
       "organizers": ["Da Capo"],
       "all_day": false,
-      "display_time": "17:30-18:30",
+      "display_time": "17:00",
       "time_slots": [
         {
-          "start": "2026-04-25T17:30:00+02:00",
-          "end": "2026-04-25T18:30:00+02:00"
+          "start": "2026-04-25T17:00:00+02:00",
+          "end": "2026-04-25T18:00:00+02:00"
         }
       ],
-      "source_text": "De 17h30 à 18h30 : répétition ouverte au public de la chorale Da Capo"
+      "source_text": "À 17h : répétition publique de la chorale Da Capo"
+    },
+    {
+      "id": "event-chez-le-du-verre-loufoque",
+      "place_id": "place-chez-le-du",
+      "title": "Un verre offert aux tenues loufoques",
+      "description": "Le midi et le soir, le restaurant paie un verre à toute personne habillée de façon loufoque pour faire rire le patron Ruud.",
+      "category": "restauration",
+      "organizers": ["Chez Le Du"],
+      "all_day": false,
+      "display_time": "Midi et soir",
+      "time_slots": [
+        {
+          "start": "2026-04-25T12:00:00+02:00",
+          "end": "2026-04-25T14:00:00+02:00"
+        },
+        {
+          "start": "2026-04-25T19:00:00+02:00",
+          "end": "2026-04-25T22:00:00+02:00"
+        }
+      ],
+      "source_text": "Le restaurant Chez Le Du, situé dans le moulin sur le pont de Keridreuff, propose le midi et le soir de payer un verre à toute personne qui viendra habillée de façon loufoque de manière à faire rire le patron Ruud."
     },
     {
       "id": "event-eglise-art-classe-29",
@@ -393,6 +424,23 @@
       "source_text": "Concerts sur la place de l’église. Lalasidi est une musique vivante et métissée, entre groove et transe, portée par une poésie marocaine et improvisation musicale."
     },
     {
+      "id": "event-eglise-coteau-laneon",
+      "place_id": "place-eglise",
+      "title": "Stand dégustation",
+      "description": null,
+      "category": "dégustation",
+      "organizers": ["Coteau de Lanéon"],
+      "all_day": false,
+      "display_time": "11:00-18:00",
+      "time_slots": [
+        {
+          "start": "2026-04-25T11:00:00+02:00",
+          "end": "2026-04-25T18:00:00+02:00"
+        }
+      ],
+      "source_text": "De 11h à 18h : Stand dégustation par Coteau de Lanéon sur la place de l’église"
+    },
+    {
       "id": "event-eglise-cosmetiques",
       "place_id": "place-eglise",
       "title": "Stand de cosmétiques",
@@ -408,6 +456,24 @@
         }
       ],
       "source_text": "Toute la journée : Stand de cosmétiques d’Edulis"
+    },
+    {
+      "id": "event-eglise-pompiers",
+      "place_id": "place-eglise",
+      "title": "Présence des pompiers et véhicules d’intervention",
+      "description": "Présentation de trois véhicules d’intervention des pompiers.",
+      "category": "exposition",
+      "organizers": ["Pompiers"],
+      "all_day": false,
+      "display_time": "14:00-18:00",
+      "subplace": "Devant le portail ouest de l’église",
+      "time_slots": [
+        {
+          "start": "2026-04-25T14:00:00+02:00",
+          "end": "2026-04-25T18:00:00+02:00"
+        }
+      ],
+      "source_text": "De 14h à 18h : Présence des pompiers avec trois véhicules d’intervention devant le portail ouest de l’église"
     },
     {
       "id": "event-eglise-danses-bretonnes",
@@ -426,23 +492,6 @@
       ],
       "source_text": "À 18h30 : Avec le groupe \"Merc'hed ar Pont\" venez apprendre les danses bretonnes tout en chantant",
       "display_time": "18:30"
-    },
-    {
-      "id": "event-eglise-dégustation-laneon",
-      "place_id": "place-eglise",
-      "title": "Dégustation",
-      "description": null,
-      "category": "dégustation",
-      "organizers": ["Les coteaux du Lanéon"],
-      "all_day": true,
-      "display_time": "Toute la journée",
-      "time_slots": [
-        {
-          "start": "2026-04-25T09:00:00+02:00",
-          "end": "2026-04-25T19:00:00+02:00"
-        }
-      ],
-      "source_text": "Toute la journée : Dégustation par les coteaux du Lanéon"
     },
     {
       "id": "event-eglise-ecoles-peinture",
@@ -484,23 +533,6 @@
       ],
       "source_text": "De 10h à 13h : EsCAP'29 vous propose de découvrir l'Histoire de Pont-Croix...",
       "display_time": "10:00-13:00"
-    },
-    {
-      "id": "event-eglise-fouees",
-      "place_id": "place-eglise",
-      "title": "Les fouées",
-      "description": null,
-      "category": "restauration",
-      "organizers": ["Association des moulins du Cap"],
-      "all_day": true,
-      "display_time": "Toute la journée",
-      "time_slots": [
-        {
-          "start": "2026-04-25T09:00:00+02:00",
-          "end": "2026-04-25T19:00:00+02:00"
-        }
-      ],
-      "source_text": "Toute la journée : Les fouées de l’association des moulins du Cap"
     },
     {
       "id": "event-eglise-heoloptic",
@@ -752,7 +784,7 @@
       "id": "event-kergadel-visite-ferme",
       "place_id": "place-kergadel",
       "title": "Visite de la ferme en maraîchage bio",
-      "description": "À prix libre.",
+      "description": "Uniquement sur inscription au 06 07 25 25 18. À prix libre.",
       "category": "visite",
       "organizers": ["EARL Kergadel"],
       "price": {
@@ -770,7 +802,7 @@
           "end": "2026-04-25T16:00:00+02:00"
         }
       ],
-      "source_text": "À 11h et 15h : visite à prix libre de la ferme en maraîchage bio de l’EARL Kergadel"
+      "source_text": "À 11h et 15h : visite à prix libre de la ferme en maraîchage bio de l’EARL Kergadel, uniquement sur inscription au 06 07 25 25 18"
     },
     {
       "id": "event-marquisat-balades",
@@ -813,7 +845,7 @@
     {
       "id": "event-mediatheque-veillee-nomade",
       "place_id": "place-mediatheque",
-      "title": "Chants et musique de la Veillée Nomade",
+      "title": "Chanson avec la Veillée Nomade",
       "description": null,
       "category": "musique",
       "organizers": ["La Veillée Nomade"],
@@ -825,24 +857,7 @@
           "end": "2026-04-25T17:00:00+02:00"
         }
       ],
-      "source_text": "De 16h15 à 17h : chants et musique de la Veillée Nomade"
-    },
-    {
-      "id": "event-pen-ar-han-visite",
-      "place_id": "place-pen-ar-han",
-      "title": "Visite du moulin",
-      "description": null,
-      "category": "visite",
-      "organizers": ["Cap sur les moulins"],
-      "all_day": false,
-      "display_time": "10:00-18:00",
-      "time_slots": [
-        {
-          "start": "2026-04-25T10:00:00+02:00",
-          "end": "2026-04-25T18:00:00+02:00"
-        }
-      ],
-      "source_text": "De 10h à 18h : visite du moulin par Cap sur les moulins"
+      "source_text": "De 16h15 à 17h : chanson avec la Veillée Nomade"
     },
     {
       "id": "event-pennanger-qi-gong",
@@ -863,12 +878,12 @@
       "source_text": "De 11h15 à 12h15 : séance découverte de Qi Gong (à partir de 12 ans)"
     },
     {
-      "id": "event-republique-atelier-pain",
+      "id": "event-republique-broderie-goyen",
       "place_id": "place-republique",
-      "title": "Atelier pain",
-      "description": "Chacun réalise son pain.",
+      "title": "Peindre et broder le Goyen",
+      "description": "Démonstration de broderie. Travail croisé: Peindre et broder le Goyen; Studios Patricia Hood et Erick Leprince.",
       "category": "atelier",
-      "organizers": ["Au four et au moulin"],
+      "organizers": ["Studio Patricia Hood", "Eric Leprince"],
       "all_day": false,
       "display_time": "10:00-18:00",
       "time_slots": [
@@ -877,24 +892,7 @@
           "end": "2026-04-25T18:00:00+02:00"
         }
       ],
-      "source_text": "De 10h à 18h : atelier pain, chacun réalise son pain à la boulangerie Au four et au moulin"
-    },
-    {
-      "id": "event-republique-broderie-goyen",
-      "place_id": "place-republique",
-      "title": "Peindre et broder le Goyen",
-      "description": "Stand de démonstration croisé autour du Goyen.",
-      "category": "atelier",
-      "organizers": ["Studio Patricia Hood", "Eric Leprince"],
-      "all_day": false,
-      "display_time": "14:00-18:00",
-      "time_slots": [
-        {
-          "start": "2026-04-25T14:00:00+02:00",
-          "end": "2026-04-25T18:00:00+02:00"
-        }
-      ],
-      "source_text": "De 14h à 18h : stand de démonstration croisé : peindre et broder le Goyen par le studio Patricia Hood et Eric Leprince"
+      "source_text": "Démonstration de broderie. Travail croisé: Peindre et Broder LE GOYEN; Studios Patricia Hood et Erick Leprince"
     },
     {
       "id": "event-republique-chasse-tresors",
@@ -929,6 +927,24 @@
         }
       ],
       "source_text": "Restaurant ouvert toute l’après midi au format bar"
+    },
+    {
+      "id": "event-republique-ty-kofata",
+      "place_id": "place-republique",
+      "title": "Dégustation de bières TI KOF",
+      "description": "Présentation de la micro brasserie TI KOF. Restauration sur place et à emporter.",
+      "category": "dégustation",
+      "organizers": ["Ty Kofata"],
+      "all_day": false,
+      "display_time": "À partir de 12:00",
+      "subplace": "Ty Kofata",
+      "time_slots": [
+        {
+          "start": "2026-04-25T12:00:00+02:00",
+          "end": "2026-04-25T19:00:00+02:00"
+        }
+      ],
+      "source_text": "À partir de 12 h : Ty Kofata propose une dégustation de bières et présentation de la micro brasserie TI KOF. Restauration sur place et à emporter."
     },
     {
       "id": "event-republique-porte-cle",
@@ -991,6 +1007,42 @@
         }
       ],
       "source_text": "Les ateliers Vincent Charrier, Eric Jezequel et Steven Pennaneac’h seront ouverts au public"
+    },
+    {
+      "id": "event-rosmadec-nomades-studio",
+      "place_id": "place-rosmadec",
+      "title": "Ouverture de Nomades Studio",
+      "description": "Accès au studio. Vente de livres neufs et d’occasion et d’objets vintages.",
+      "category": "marché-artisanat",
+      "organizers": ["Nomades Studio"],
+      "all_day": false,
+      "display_time": "10:00-16:00",
+      "subplace": "22 rue de Rosmadec",
+      "time_slots": [
+        {
+          "start": "2026-04-25T10:00:00+02:00",
+          "end": "2026-04-25T16:00:00+02:00"
+        }
+      ],
+      "source_text": "De 10h à 16h : Nomades Studio sera ouvert avec vente de livres neufs/occasion et objets vintages au 22 rue de Rosmadec. Ouvert à tous."
+    },
+    {
+      "id": "event-rosmadec-poterie-berard",
+      "place_id": "place-rosmadec",
+      "title": "Ouverture de l’atelier de poterie de Jean Marie Bérard",
+      "description": "Avec dédicaces de livres pour enfants de Pierre Lehoulier.",
+      "category": "atelier",
+      "organizers": ["Jean Marie Bérard", "Pierre Lehoulier"],
+      "all_day": false,
+      "display_time": "10:00-20:00",
+      "subplace": "13 rue Rosmadec",
+      "time_slots": [
+        {
+          "start": "2026-04-25T10:00:00+02:00",
+          "end": "2026-04-25T20:00:00+02:00"
+        }
+      ],
+      "source_text": "De 10h à 20h : ouverture de l’atelier de poterie de Jean Marie Bérard avec dédicaces de livres pour enfants de Pierre Lehoulier au 13 rue Rosmadec"
     },
     {
       "id": "event-rosmadec-peinture",
