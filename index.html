@@ -17,11 +17,10 @@
     /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
     _paq.push(['disableCookies']);
     _paq.push(['setDoNotTrack', true]);
-    _paq.push(['setAnonymizeIp', true]);
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking']);
     (function () {
-      var u = "//matomo.lecedrebleu-px.fr/";
+      var u = "https://matomo.lecedrebleu-px.fr/";
       _paq.push(["setTrackerUrl", u + "matomo.php"]);
       _paq.push(["setSiteId", "3"]);
       var d = document,
