@@ -194,6 +194,23 @@
   ],
   "events": [
     {
+      "id": "event-concert-diga-beleza",
+      "place_id": "place-eglise",
+      "title": "Concert de Diga Beleza",
+      "description": "",
+      "category": "musique",
+      "organizers": ["Marché bio local et musical"],
+      "all_day": false,
+      "display_time": "19:15-20:30",
+      "time_slots": [
+        {
+          "start": "2026-04-25T19:15:00+02:00",
+          "end": "2026-04-25T20:30:00+02:00"
+        }
+      ],
+      "source_text": "Concert sur la scène de la place de l'église"
+    },
+    {
       "id": "event-bollore-conférence-vigne",
       "place_id": "place-bollore",
       "title": "Conférence sur la vigne et le vin en Cap Sizun",
@@ -400,7 +417,7 @@
           "end": "2026-04-25T20:00:00+02:00"
         }
       ],
-      "source_text": "Concerts sur la place de l’église par l’association du marché bio local et musical, le Cèdre bleu et l’association On y est"
+      "source_text": "Concert sur la place de l’église par l’association du marché bio local et musical, le Cèdre bleu et l’association On y est"
     },
     {
       "id": "event-eglise-concert-lalasidi",
@@ -421,7 +438,7 @@
           "end": "2026-04-25T16:00:00+02:00"
         }
       ],
-      "source_text": "Concerts sur la place de l’église. Lalasidi est une musique vivante et métissée, entre groove et transe, portée par une poésie marocaine et improvisation musicale."
+      "source_text": "Concert sur la scène de la place de l’église. Lalasidi est une musique vivante et métissée, entre groove et transe, portée par une poésie marocaine et improvisation musicale."
     },
     {
       "id": "event-eglise-coteau-laneon",
